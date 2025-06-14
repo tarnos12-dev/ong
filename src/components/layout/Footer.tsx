@@ -78,13 +78,13 @@ const Footer: React.FC = () => {
             <h4 className="text-lg font-semibold mb-4 font-heading">{t('contact.title')}</h4>
             <ul className="space-y-3">
               <li className="text-gray-400">
-                <span className="font-medium text-white">{t('contact.info.address')}:</span> 123 Agricultural Way, City
+                <span className="font-medium text-white">{t('contact.info.address')}:</span> ALLADA, Lissègazoun, Qrt: Midédji
               </li>
               <li className="text-gray-400">
-                <span className="font-medium text-white">{t('contact.info.phone')}:</span> +123 456 7890
+                <span className="font-medium text-white">{t('contact.info.phone')}:</span> ALLADA, Lissègazoun, Qrt: Midédji
               </li>
               <li className="text-gray-400">
-                <span className="font-medium text-white">{t('contact.info.email')}:</span> info@gracedivineong.org
+                <span className="font-medium text-white">{t('contact.info.email')}:</span>  divineong18@gmail.com 
               </li>
             </ul>
           </div>
